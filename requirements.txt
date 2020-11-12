@@ -1,0 +1,4 @@
+numpy==1.19.1
+torch==1.3.0
+torchsummary==1.5.1
+tensorboardX==2.1
