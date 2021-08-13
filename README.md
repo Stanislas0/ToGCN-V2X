@@ -9,7 +9,7 @@ This is the official implementation of the following [paper](https://ieeexplore.
 
 If you have any question, please raise an issue or contact ```qinkai.zheng1028@gmail.com```. 
 
-Datasets can be downloaded via the [link](https://cloud.tsinghua.edu.cn/lib/a28e5dd6-f0bc-4b1c-bf22-b72b2999f537/file/traffic_data.zip). 
+Datasets can be downloaded via the [link](https://cloud.tsinghua.edu.cn/f/7b51e34c7df249248b47/). 
 ## Requirements
 
 * numpy==1.19.1
